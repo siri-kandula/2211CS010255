@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8a5ba8f.css",
-    "main.js": "/static/js/main.8385bb10.js",
-    "static/js/453.1b6cbde4.chunk.js": "/static/js/453.1b6cbde4.chunk.js",
-    "index.html": "/index.html",
-    "main.f8a5ba8f.css.map": "/static/css/main.f8a5ba8f.css.map",
-    "main.8385bb10.js.map": "/static/js/main.8385bb10.js.map",
-    "453.1b6cbde4.chunk.js.map": "/static/js/453.1b6cbde4.chunk.js.map"
+    "main.css": "/2211CS010255/static/css/main.1eefcf71.css",
+    "main.js": "/2211CS010255/static/js/main.478e139f.js",
+    "static/js/453.1b6cbde4.chunk.js": "/2211CS010255/static/js/453.1b6cbde4.chunk.js",
+    "static/media/app development image11.png": "/2211CS010255/static/media/app development image11.42d21584e73b4c63f4d5.png",
+    "static/media/app development registerpage.jpeg": "/2211CS010255/static/media/app development registerpage.22bba7c2d1ff0a071b06.jpeg",
+    "static/media/app development image7.jpg": "/2211CS010255/static/media/app development image7.8ebf443a3e9cbc4e6091.jpg",
+    "static/media/app development image.avif": "/2211CS010255/static/media/app development image.7af2ecc67c567553c8e3.avif",
+    "static/media/app development image2.jpg": "/2211CS010255/static/media/app development image2.711f4d5a0071c9af742e.jpg",
+    "static/media/app development image3.avif": "/2211CS010255/static/media/app development image3.0b54c10064e5fbb5dec6.avif",
+    "index.html": "/2211CS010255/index.html",
+    "main.1eefcf71.css.map": "/2211CS010255/static/css/main.1eefcf71.css.map",
+    "main.478e139f.js.map": "/2211CS010255/static/js/main.478e139f.js.map",
+    "453.1b6cbde4.chunk.js.map": "/2211CS010255/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8a5ba8f.css",
-    "static/js/main.8385bb10.js"
+    "static/css/main.1eefcf71.css",
+    "static/js/main.478e139f.js"
   ]
 }

@@ -1,0 +1,24 @@
+[
+
+  { "id": 1, "name": "Vitamin E capsule", "description": "Vitamin E is another nutrient that's good for the skin, and many natural beauty products use vitamin E oil to treat dark circles, but it's important not to apply undiluted oil directly to the skin because some people are allergic to it." 
+},
+  { "id": 2, "name": "Cinnamon", "description": "Cinnamon has the ability to kill microorganisms that cause the redness and pus associated with acne. Cinnamon's anti-inflammatory qualities help to alleviate pimple swelling and redness." 
+},
+  { "id": 3, "name": "Aloe Vera", "description": "Soothing gel with anti-inflammatory and moisturizing properties."
+},
+{ "id": 4, "name": "Fuller's Earth", "description": "Fuller’s earth is a safe and relatively inexpensive way to cleanse your skin and improve your skin’s appearance, especially if you have oily skin and treat acne."
+},
+{ "id": 5, "name": "Sandalwood powder", "description": "Sandalwood powder has anti-bacterial properties and rich antioxidant content which help in the healing of many diseases related to the skin easily without causing any side effects to the body."
+},
+{ "id": 6, "name": "Green tea", "description": "Green tea is rich in catechins, which are potent antioxidants that boost your immunity, skin health, reduce white heads and overall well-being."
+},
+{ "id": 7, "name": "Olive Oil", "description": "Olive Oil for face can be used as a natural moisturizer as it contains essential fatty acids."
+},
+{ "id": 8, "name": "Oatmeal and Banana", "description": "The coarse texture of the oatmeal and the smoothness of banana combine brilliantly to work wonders for your skin. It is not just a hair removing solution but also an excellent exfoliating mixture. It is the panacea for all facial hair problems."
+},
+{ "id": 9, "name": "Cornstarch", "description": "Cornstarch helps in getting rid of skin impurities and prevents breakouts."
+},
+{ "id": 10, "name": "Raw Papaya", "description": "Papayas hold skin brightening properties that help take away tan lines and dullness. This will act like an astringent and help reduce the appearance of the tan."
+}
+
+]
